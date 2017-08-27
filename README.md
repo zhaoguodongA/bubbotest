@@ -2,4 +2,4 @@
 idea test
 idea test
 idea test
-idea test1
+/，idea test1
